@@ -1,4 +1,4 @@
-# Keep Focus - <img align="center" alt="Js" height="30" width="30" src="https://user-images.githubusercontent.com/62257920/156895879-213ecf25-3ed2-48a4-ac44-4949167f9213.png">
+# Keep Focus - <img align="center" alt="BR" height="30" width="30" src="https://user-images.githubusercontent.com/62257920/156895879-213ecf25-3ed2-48a4-ac44-4949167f9213.png">
 
 <b>let myname <span style="color: purple">=</span> "Tulio" / myname = "Tulio" / char myname[] = "Tulio"</b>
 
